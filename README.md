@@ -14,4 +14,4 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sadesxd&show_icons=true&theme=midnight-purple)
 ![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=sadesxd&layout=compact&theme=midnight-purple)
 
-- Support Me (Saweria): [Support Us](https://saweria.co/sadesxd)
+- Support Me (Saweria): [Support Us](https://saweria.co/sadesxdgt)
