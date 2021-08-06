@@ -39,6 +39,9 @@ My Statistics
     <a href="https://github.com/SadesXD">
     <img src="src/github.png" alt="Github" width="40em">
     </a>
+    <a href="https://saweria.co/sadesxdgt">
+    <img src="src/saw.png" alt="Saweria" width="40em">
+    </a>
     
     
 ![](https://github-readme-stats.vercel.app/api?username=sadesxd&show_icons=true&theme=radical)
