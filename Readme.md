@@ -12,16 +12,18 @@ Hello there 👋 | I'm SadesXD
 I am someone who likes to learn a new interesting things, im also a beginner programmer who usually makes something that can help other people, and also I am a content creator and discord bot developer
 </p>
 
+
 ---
 
 <p>
  <img src="src/you.jpg" width="200" align="left">
 </p>
 
-### 📕 Content Creator
 
+<p>
 As a content creator I made a video about discord bot made using an npm (node ​​package manager) package that is Discord.js, not only that, i also made a useful random tutorial. <a href="https://www.youtube.com/channel/UCS1P0f3H20_CKxGVvACFWBg">Check it out my Youtube Channel >>
 </a>
+</p>
 
 ---
 
