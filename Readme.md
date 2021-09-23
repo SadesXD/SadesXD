@@ -33,10 +33,10 @@ My Statistics
 
 <div align="center">
     <a href="https://www.youtube.com/channel/UCS1P0f3H20_CKxGVvACFWBg">
-    <img src="src/discord.png" alt="Youtube" width="40em">
+    <img src="src/youtube.png" alt="Youtube" width="40em">
     </a>
-    <a href="https://discord.gg/8rUvTYhFqK">
-    <img src="src/youtube.png" alt="Discord" width="40em">
+    <a href="https://discord.gg/Kj8TYuCjbU">
+    <img src="src/discord.png" alt="Discord" width="40em">
     </a>
     <a href="https://github.com/SadesXD">
     <img src="src/github.png" alt="Github" width="40em">
